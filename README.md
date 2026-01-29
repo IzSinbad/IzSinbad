@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate software developer from Canada</h3>
 
-- 🔭 I’m currently working on [SafeRyd](https://github.com/glaslan/project3_3_8.git)
+-  I’m currently learning **React Native , Flutter , Firebase**
 
-- 🌱 I’m currently learning **React Native , Flutter , Firebase**
+-  Ask me about **Python , React Native**
 
-- 💬 Ask me about **Python , React Native**
+-  How to reach me **adilfarid1389@gmail.com**
 
-- 📫 How to reach me **adilfarid1389@gmail.com**
-
-- ⚡ Fun fact **I won inter-college badminton championship.**
+-  Fun fact **I won inter-college badminton championship.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
