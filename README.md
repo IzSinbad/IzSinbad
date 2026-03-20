@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
--  I’m currently learning **React Native , Flutter , Firebase**
-
--  Ask me about **Python , React Native**
+-  I’m currently learning **AWS , Kubernete , Django**
 
 -  How to reach me **adilfarid1389@gmail.com**
 
